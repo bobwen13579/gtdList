@@ -1,0 +1,6 @@
+framework module Pods_gtdList {
+  umbrella header "Pods-gtdList-umbrella.h"
+
+  export *
+  module * { export * }
+}
